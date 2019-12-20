@@ -13,7 +13,7 @@
 ![5.] Launch Krunker MTZ-Client.exe
 ```
 
-### Have any troubles? Check this video: https://www.youtube.com/watch?v=qduv6fNoSSM
+### Have any troubles? Check this video: "coming soon"
 
 ______________________________________________________________________________
 ## Features
